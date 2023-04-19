@@ -1,0 +1,10 @@
+digraph G{
+I [label="", style=invis, height=0]
+F [label="", style=invis, height=0]
+I -> 1
+1 -> 1 [label="a"]
+1 -> 3 [label="a"]
+1 -> 2 [label="b"]
+2 -> 1 [label="b"]
+3 -> F
+}

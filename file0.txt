@@ -1,0 +1,5 @@
+acc       b        abacc   
+bbc       ba       ca 
+bababac            bab   
+aba       baa   
+a         bc   babababaacccc
